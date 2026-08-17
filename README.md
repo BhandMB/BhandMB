@@ -1,22 +1,23 @@
 # Hi, I'm Mayur Bhand 👋
 
-### Computer Engineering Graduate | Backend & Software Developer
+### Computer Engineering Graduate | Java & Spring Boot Backend Developer
 
-I build practical backend applications and data-driven projects with a focus on **Java, Spring Boot, REST APIs, SQL, and Python**.
+I build practical backend and full-stack applications with a focus on **Java, Spring Boot, REST APIs, SQL, MySQL, JPA/Hibernate, testing, and CI/CD**.
 
-I enjoy turning ideas into working software, learning modern engineering practices, and building projects that solve real-world problems.
+I enjoy turning requirements into maintainable software, documenting APIs, writing automated tests, and continuously improving my engineering workflow.
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 Computer Engineering graduate
-- 💻 Focused on backend and software development
-- ☕ Building with Java & Spring Boot
-- 🗄️ Working with REST APIs, MySQL & SQL
+- 💻 Focused on Java backend and full-stack development
+- ☕ Java + Spring Boot + REST APIs
+- 🗄️ MySQL + Spring Data JPA + Hibernate
+- 🧪 JUnit + Mockito + MockMvc
+- ⚙️ Maven + GitHub Actions CI
 - 🐍 Exploring Python, AI/ML and data analytics
-- 📚 Currently strengthening DSA, backend architecture, testing and Git/GitHub workflows
-- 🎯 Goal: Build reliable, maintainable software and grow as a professional developer
+- 🎯 Building production-style portfolio projects for software engineering roles
 
 ---
 
@@ -31,24 +32,35 @@ I enjoy turning ideas into working software, learning modern engineering practic
 ### Backend
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
-### Database & Tools
+### Database, Testing & Tools
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## ⭐ Featured Projects
 
-### 📚 Book Library API
-**Java • Spring Boot • REST API • Database**
+### 👨‍💼 Employee Management System
+**Java 17 • Spring Boot • REST API • JPA • MySQL • Bootstrap • JUnit • Mockito • MockMvc • GitHub Actions**
 
-Backend-focused application for managing books and library operations through APIs.
+Full-stack employee management application demonstrating layered backend architecture, REST APIs, database persistence, browser UI, automated testing, and CI.
+
+[![CI](https://github.com/BhandMB/employee-management-system/actions/workflows/ci.yml/badge.svg)](https://github.com/BhandMB/employee-management-system/actions/workflows/ci.yml)
+
+🔗 [View Repository](https://github.com/BhandMB/employee-management-system)
+
+### 📚 Book Library REST API
+**Java 17 • Spring Boot • REST API • JPA • H2 • Validation • OpenAPI • MockMvc • GitHub Actions**
+
+Production-style backend API with CRUD operations, search/filtering, pagination, validation, exception handling, API documentation, automated tests and CI.
 
 🔗 [View Repository](https://github.com/BhandMB/book-library-api)
 
@@ -59,19 +71,12 @@ Application project focused on implementing a practical book-management workflow
 
 🔗 [View Repository](https://github.com/BhandMB/book-library-app)
 
-### ☕ Java Projects
-**Java • OOP • Core Java**
+### 📱 LogoGuessApp
+**Android • Java**
 
-Collection of Java programs and exercises demonstrating programming fundamentals and object-oriented concepts.
+Android application project demonstrating mobile application development.
 
-🔗 [View Repository](https://github.com/BhandMB/Java)
-
-### 🏧 Mini ATM
-**Java • OOP • Application Logic**
-
-Console-based ATM application demonstrating core Java programming, control flow and transaction logic.
-
-🔗 [View Repository](https://github.com/BhandMB/MiniATM)
+🔗 [View Repository](https://github.com/BhandMB/LogoGuessApp)
 
 ---
 
@@ -83,22 +88,16 @@ Console-based ATM application demonstrating core Java programming, control flow 
 
 ---
 
-## 📈 Contribution Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=BhandMB&hide_border=true)
-
----
-
 ## 🧠 Current Focus
 
 ```text
 Java & Spring Boot       ████████████████████  Backend
 REST API Development     ███████████████████░  APIs
 SQL & MySQL              ██████████████████░░  Database
-Python                   ███████████████░░░░░  Programming
-AI / ML                   ████████████░░░░░░░░  Exploration
-DSA                       ███████████░░░░░░░░░  Problem Solving
-Testing & CI/CD           ██████████░░░░░░░░░░  Improving
+Testing & CI/CD           ███████████████░░░░░  Quality
+DSA                       ████████████░░░░░░░░  Problem Solving
+Cloud                     ██████████░░░░░░░░░░  Next
+Python / AI               ██████████░░░░░░░░░░  Exploration
 ```
 
 ---
@@ -107,7 +106,7 @@ Testing & CI/CD           ██████████░░░░░░░░
 
 **Backend Engineering → Production APIs → Testing → CI/CD → Cloud → Scalable Systems**
 
-I am continuously improving my ability to design, develop, test and document software that is clean, maintainable and useful.
+My goal is to build software that is reliable, maintainable, well-tested, documented, and useful in real-world environments.
 
 ---
 
@@ -121,5 +120,3 @@ I am continuously improving my ability to design, develop, test and document sof
 ### 💡 Developer Mindset
 
 > **Learn → Build → Test → Document → Improve → Repeat.**
-
-⭐ If you find one of my projects useful, feel free to explore the repository and leave a star.
