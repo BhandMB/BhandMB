@@ -1,122 +1,166 @@
-# Hi, I'm Mayur Bhand 👋
+👋 Hi, I'm Mayur Bhand
+💻 Java Backend Developer | Spring Boot | REST APIs | MySQL
 
-### Computer Engineering Graduate | Java & Spring Boot Backend Developer
+I’m a Computer Engineering graduate focused on building reliable backend applications using Java, Spring Boot, REST APIs, SQL, and MySQL.
 
-I build practical backend and full-stack applications with a focus on **Java, Spring Boot, REST APIs, SQL, MySQL, JPA/Hibernate, testing, and CI/CD**.
+I enjoy turning requirements into clean, maintainable software with a strong focus on API design, database architecture, testing, documentation, and CI/CD.
 
-I enjoy turning requirements into maintainable software, documenting APIs, writing automated tests, and continuously improving my engineering workflow.
+🎯 Open to: Java Developer • Backend Developer • Spring Boot Developer • Software Engineer — Fresher
 
----
+🚀 About Me
+🎓 Computer Engineering Graduate
+☕ Building backend applications with Java & Spring Boot
+🔗 Designing and developing RESTful APIs
+🗄️ Working with MySQL, JPA & Hibernate
+🧪 Writing automated tests with JUnit, Mockito & MockMvc
+⚙️ Using Maven, Git & GitHub Actions
+📚 Currently strengthening DSA, system design & cloud fundamentals
+🤖 Exploring Python, AI/ML & data analytics
+🎯 Interested in building software that is clean, testable, documented and maintainable
+🛠️ Technical Skills
+💻 Languages
 
-## 🚀 About Me
 
-- 🎓 Computer Engineering graduate
-- 💻 Focused on Java backend and full-stack development
-- ☕ Java + Spring Boot + REST APIs
-- 🗄️ MySQL + Spring Data JPA + Hibernate
-- 🧪 JUnit + Mockito + MockMvc
-- ⚙️ Maven + GitHub Actions CI
-- 🐍 Exploring Python, AI/ML and data analytics
-- 🎯 Building production-style portfolio projects for software engineering roles
 
----
 
-## 🛠️ Tech Stack
 
-### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+⚙️ Backend Development
 
-### Backend
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
-### Database, Testing & Tools
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
 
-## ⭐ Featured Projects
 
-### 👨‍💼 Employee Management System
-**Java 17 • Spring Boot • REST API • JPA • MySQL • Bootstrap • JUnit • Mockito • MockMvc • GitHub Actions**
+🗄️ Database
 
-Full-stack employee management application demonstrating layered backend architecture, REST APIs, database persistence, browser UI, automated testing, and CI.
 
-[![CI](https://github.com/BhandMB/employee-management-system/actions/workflows/ci.yml/badge.svg)](https://github.com/BhandMB/employee-management-system/actions/workflows/ci.yml)
 
-🔗 [View Repository](https://github.com/BhandMB/employee-management-system)
 
-### 📚 Book Library REST API
-**Java 17 • Spring Boot • REST API • JPA • H2 • Validation • OpenAPI • MockMvc • GitHub Actions**
 
-Production-style backend API with CRUD operations, search/filtering, pagination, validation, exception handling, API documentation, automated tests and CI.
+🧪 Testing & Quality
 
-🔗 [View Repository](https://github.com/BhandMB/book-library-api)
 
-### 📱 Book Library App
-**Application Development • Java**
 
-Application project focused on implementing a practical book-management workflow.
 
-🔗 [View Repository](https://github.com/BhandMB/book-library-app)
 
-### 📱 LogoGuessApp
-**Android • Java**
 
-Android application project demonstrating mobile application development.
+🔧 Tools & DevOps
 
-🔗 [View Repository](https://github.com/BhandMB/LogoGuessApp)
 
----
 
-## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhandMB&show_icons=true&hide_border=true&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhandMB&layout=compact&hide_border=true)
 
----
 
-## 🧠 Current Focus
+⭐ Featured Projects
+👨‍💼 Employee Management System
 
-```text
-Java & Spring Boot       ████████████████████  Backend
-REST API Development     ███████████████████░  APIs
-SQL & MySQL              ██████████████████░░  Database
-Testing & CI/CD           ███████████████░░░░░  Quality
-DSA                       ████████████░░░░░░░░  Problem Solving
-Cloud                     ██████████░░░░░░░░░░  Next
-Python / AI               ██████████░░░░░░░░░░  Exploration
-```
+Java 17 • Spring Boot • REST API • JPA/Hibernate • MySQL • Bootstrap • JUnit • Mockito • MockMvc • GitHub Actions
 
----
+A full-stack employee management application demonstrating a structured backend architecture and database-driven web application.
 
-## 🎯 What I'm Building Toward
+✨ Highlights
+🔗 REST APIs for employee management
+🗄️ Persistent data storage using Spring Data JPA & MySQL
+🏗️ Layered backend architecture
+🌐 Browser-based user interface
+🧪 Unit and web-layer testing
+🔄 Automated CI using GitHub Actions
+🔐 Backend validation and structured API responses
 
-**Backend Engineering → Production APIs → Testing → CI/CD → Cloud → Scalable Systems**
 
-My goal is to build software that is reliable, maintainable, well-tested, documented, and useful in real-world environments.
 
----
 
-## 🤝 Connect With Me
+🔗 View Repository
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayurbhand/)
-[![GitHub](https://img.shields.io/badge/GitHub-BhandMB-181717?style=for-the-badge&logo=github)](https://github.com/BhandMB)
+📚 Book Library REST API
 
----
+Java 17 • Spring Boot • REST API • JPA • H2 • Validation • OpenAPI • MockMvc • GitHub Actions
 
-### 💡 Developer Mindset
+A backend-focused REST API designed around common real-world API requirements.
 
-> **Learn → Build → Test → Document → Improve → Repeat.**
+✨ Highlights
+🔗 CRUD REST endpoints
+🔎 Search and filtering
+📄 Pagination support
+✅ Request validation
+⚠️ Global exception handling
+📖 OpenAPI API documentation
+🧪 MockMvc integration testing
+🔄 GitHub Actions CI pipeline
+
+🔗 View Repository
+
+📱 Book Library App
+
+Java • Application Development
+
+A practical application project focused on implementing a book-management workflow and strengthening Java application development fundamentals.
+
+🔗 View Repository
+
+🎮 LogoGuessApp
+
+Android • Java
+
+Android application demonstrating mobile application development, UI implementation and Java programming.
+
+🔗 View Repository
+
+📊 GitHub Analytics
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BhandMB&show_icons=true&hide_border=true&rank_icon=github" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhandMB&layout=compact&hide_border=true" height="170"/> </p>
+
+🧠 Current Learning & Development
+Area	Focus
+☕ Java & Spring Boot	Backend development
+🔗 REST APIs	API design & architecture
+🗄️ SQL & MySQL	Database design & optimization
+🧪 Testing	JUnit, Mockito & MockMvc
+⚙️ CI/CD	GitHub Actions & automation
+🧩 DSA	Problem solving & coding interviews
+☁️ Cloud	AWS & deployment fundamentals
+🤖 Python / AI	AI/ML exploration
+🎯 My Engineering Journey
+Java
+  ↓
+Spring Boot
+  ↓
+REST APIs
+  ↓
+JPA / Hibernate
+  ↓
+SQL / MySQL
+  ↓
+Testing
+  ↓
+CI/CD
+  ↓
+Cloud
+  ↓
+Scalable Backend Systems
+💡 Engineering Mindset
+
+Learn → Build → Test → Document → Improve → Repeat
+
+I believe good software isn't just about making something work.
+
+It's about building software that is:
+
+Reliable • Maintainable • Testable • Documented • Scalable
+
+🤝 Let's Connect
+
+<p align="left"> <a href="https://www.linkedin.com/in/mayurbhand/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/BhandMB"> <img src="https://img.shields.io/badge/GitHub-BhandMB-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
+
+📍 Based in India
+
+💼 Open to Java / Spring Boot / Backend Software Engineering opportunities
+
+⭐ If you find my projects useful
+
+Feel free to ⭐ a repository, explore my projects, or connect with me on LinkedIn.
+
+Thanks for visiting my profile! 🚀
