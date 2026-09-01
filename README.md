@@ -123,7 +123,12 @@ Area	Focus
 🧩 DSA	Problem solving & coding interviews
 ☁️ Cloud	AWS & deployment fundamentals
 🤖 Python / AI	AI/ML exploration
-🎯 My Engineering Journey
+
+📅 Daily Engineering Log
+
+**September 1, 2026** — Continued improving my GitHub portfolio and keeping my engineering workflow active. Focus: Java/Spring Boot backend development, testing, API quality, and continuous improvement.
+
+🎯 Engineering Journey
 Java
   ↓
 Spring Boot
