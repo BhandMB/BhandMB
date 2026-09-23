@@ -83,36 +83,6 @@ public class MayurBhand {
 
 ## ⭐ Featured Projects
 
-<div align="center">
-
-<!-- PROJECT 1 -->
-<a href="https://github.com/BhandMB/employee-management-system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BhandMB&repo=employee-management-system&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-&nbsp;
-<!-- PROJECT 2 -->
-<a href="https://github.com/BhandMB/book-library-api">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BhandMB&repo=book-library-api&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-
-<br/><br/>
-
-<!-- PROJECT 3 -->
-<a href="https://github.com/BhandMB/book-library-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BhandMB&repo=book-library-app&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-&nbsp;
-<!-- PROJECT 4 -->
-<a href="https://github.com/BhandMB/MiniATM">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BhandMB&repo=MiniATM&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-
-</div>
-
-<br/>
-
-### 🔍 Project Highlights
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -192,13 +162,19 @@ public class MayurBhand {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BhandMB&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&border_radius=10&count_private=true" />
+<a href="https://github.com/BhandMB">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BhandMB&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&border_radius=10&count_private=true&cache_seconds=86400" />
+</a>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhandMB&layout=compact&hide_border=true&theme=tokyonight&border_radius=10&langs_count=8" />
+<a href="https://github.com/BhandMB">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhandMB&layout=compact&hide_border=true&theme=tokyonight&border_radius=10&langs_count=8&cache_seconds=86400" />
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=BhandMB&theme=tokyonight&hide_border=true&border_radius=10" width="60%" />
+<a href="https://github.com/BhandMB">
+<img src="https://streak-stats.demolab.com?user=BhandMB&theme=tokyonight&hide_border=true&border_radius=10" width="60%" />
+</a>
 
 <br/><br/>
 
